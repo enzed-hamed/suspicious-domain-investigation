@@ -1,6 +1,6 @@
 # Suspicious Domain Investigation
 By one of my professors I was tasked to investigate a suspicious domain. I spent a few weeks working on the subject. I used techniuqes in multiple areas of cybersecurity including OSINT, Malware Analysis, Web Security, etc, in order to fully investigate the attach chain which led to identifying the origin of the malware, and reported my findings on a weekly basis in form of three documents.
-This is a step by step explanation of what I did.
+This is a step by step walkthrough of my process:
 1. I found javascript code served on this domain and performed static analysis
 2. Performed dynamic analysis using services like any.run
   So far I found that this script serves popups to users with innocent urls of arbitrary websites.
